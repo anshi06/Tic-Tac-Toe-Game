@@ -100,6 +100,7 @@ function App() {
 
   return (
     <main>
+      <h1>Tic-Tac-Toe</h1>
       <div id="game-container">
         <ol id="players" className="highlight-player">
           <Player
